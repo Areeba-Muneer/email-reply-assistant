@@ -17,6 +17,3 @@ Paste the original email, select a purpose and tone, adjust creativity, then cli
 - `streamlit` command not found: run `python -m pip install -r requirements.txt`.
 - API quota error: check your API account usage.
 - To capture the empty-input error screenshot, leave the email box blank and click Generate.
-
-## Assignment evidence
-Capture screenshots of two successful replies using different purposes/tones and one error. Record a 2–4 minute demo. Only report tests you actually performed.
